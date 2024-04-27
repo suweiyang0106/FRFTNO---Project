@@ -1,4 +1,4 @@
-# FRFTNO-Project
+# Fractional Fourier transform neural operator (FRFTNO) -Project
 This project uses FRFT, a nonstationary random field, and several partial differential equations to prove it is better than FNO.<br />
 Result:
 1D(36%)/2D(21%)/3D(16%) less error than FNO.:<br />
