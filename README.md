@@ -8,3 +8,4 @@ Improved FNO: FNO_allmode <br />
 FRFT: FRFTNO fixedarch <br />
 Datasets: <br />
 Burger/Poisson/Wave equations <br />
+Warning: Burger equation dataset upwind scheme might be wrong due to negative value from the initial state.<br />
